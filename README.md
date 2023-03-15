@@ -1,2 +1,2 @@
 # betterNextFrame
-experiments on next frame prediction with neural networks 
+experiments on next frame prediction with neural networks.
