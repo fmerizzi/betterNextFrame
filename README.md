@@ -4,8 +4,12 @@ Working with my own datset on wind forecasting for central europe [link](https:/
 
 ## LSTM predictions
 
+__seq to 1__
 
 <img src="https://github.com/fmerizzi/betterNextFrame/blob/main/lstm/2023-03-13%2014:27:07.388693fullpred.gif" width="300" height="300">
+
+
+__seq to seq__
 
 
 <img src="https://github.com/fmerizzi/betterNextFrame/blob/main/lstm/2023-03-14%2011:36:18.145541fullpred.gif" width="300" height="300">
