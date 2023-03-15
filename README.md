@@ -18,6 +18,9 @@ __seq to seq__
 ## Transformer predictions
 
 
+__true vs predicted__
+
+
 <img src="https://github.com/fmerizzi/betterNextFrame/blob/main/transformer/examples/2023-03-14%2018:13:18.504667x.gif" width="300" height="300"><img src="https://github.com/fmerizzi/betterNextFrame/blob/main/transformer/examples/2023-03-14%2018:13:18.529239y.gif" width="300" height="300">
 
 
